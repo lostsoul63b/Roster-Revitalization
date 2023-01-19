@@ -2,7 +2,7 @@
 
 ![Quick Setup Guide-RosPortGH](https://user-images.githubusercontent.com/69597675/213512888-277153a7-8b34-4c20-8423-c108025eb2f0.png)
 
-## Available JSGME MODS
+## Revitalized Rosters
 | Roster Year | Roster Save | Creator | Download |
 | :------------- | :------------- | :------------- | :------------- |
 | 1958-1980 | CMod1 | CAPA | [Download]() |
@@ -44,3 +44,4 @@
 | 2022 | N/A | LostsouL / CujoMatty | [Download]() |
 | 2023 | N/A | LostsouL / CujoMatty | [Download]() |
 | G.O.A.T. | CMod36 | WARPATH | [Download]() |
+| Pre-loaded memcard | All | LostsouL | [Download]() |
