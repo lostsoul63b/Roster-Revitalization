@@ -9,15 +9,15 @@
 | 1979-1980 | CMod2 | DreadedSteeler | [Download]() |
 | 1980-2007 | CMod3 | CAPA | [Download]() |
 | 1981-1982 | CMod4 | Devinstate | [Download]() |
-|  | CMod5 |  | [Download]() |
-|  | CMod6 |  | [Download]() |
-|  | CMod7 |  | [Download]() |
-|  | CMod8 |  | [Download]() |
-|  | CMod9 |  | [Download]() |
-|  | CMod10 |  | [Download]() |
-|  | CMod11 |  | [Download]() |
-|  | CMod12 |  | [Download]() |
-|  | CMod13 |  | [Download]() |
+| 1983-1984 | CMod5 | dophin26 | [Download]() |
+| 1984-1985 | CMod6 | dophin26 | [Download]() |
+| 1985-1986 | CMod7 | dophin26 | [Download]() |
+| 1986-1987 | CMod8 | dophin26 | [Download]() |
+| 1987-1988 | CMod9 | dophin26 | [Download]() |
+| 1988-1989 | CMod10 | dophin26 | [Download]() |
+| 1980-1990 | CMod11 | dophin26 | [Download]() |
+| 1990-1991 | CMod12 | WARPATH | [Download]() |
+| 1991-1992 | CMod13 | Suirad / Gary T | [Download]() |
 |  | CMod14 |  | [Download]() |
 |  | CMod15 |  | [Download]() |
 |  | CMod16 |  | [Download]() |
