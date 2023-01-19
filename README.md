@@ -40,7 +40,7 @@
 | 2018-2019 | CMod35 | TDMAVENS | [Download](https://github.com/lostsoul63b/Roster-Revitalization/raw/main/ros/2018-2019-CMod35.zip) |
 | 2020 | CMod31 | BAD_AL | [Download](https://github.com/lostsoul63b/Roster-Revitalization/raw/main/ros/2020-CMod31.zip) |
 | 2021 | N/A | LostsouL / BAD_AL | [Download](https://github.com/lostsoul63b/NFL-2K21/tree/main/Rosters) |
-| 2022 | N/A | LostsouL / CujoMatty | [Download](https://github.com/lostsoul63b/NFL2K5-Resurrected/raw/main/PCSX2/notes/NFL2022Ratings.md) |
-| 2023 | N/A | LostsouL / CujoMatty | [Download](https://github.com/lostsoul63b/NFL-2K23/raw/main/files/Ratings.md) |
+| 2022 | N/A | LostsouL / CujoMatty | [Download](https://github.com/lostsoul63b/NFL2K5-Resurrected/blob/main/PCSX2/notes/NFL2022Ratings.md) |
+| 2023 | N/A | LostsouL / CujoMatty | [Download](https://github.com/lostsoul63b/NFL-2K23/blob/main/files/Ratings.md) |
 | G.O.A.T. | CMod36 | WARPATH | [Download](https://github.com/lostsoul63b/Roster-Revitalization/raw/main/ros/EveryTeamsBestPlayers-CMod36.zip) |
 | Pre-loaded memcard | All | LostsouL | [Download](https://github.com/lostsoul63b/Roster-Revitalization/raw/main/ros/Pre-Loaded-memcard.zip) |
