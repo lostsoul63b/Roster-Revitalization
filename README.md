@@ -6,38 +6,38 @@
 | Roster Year | Roster Save | Creator | Download |
 | :------------- | :------------- | :------------- | :------------- |
 | 1958-1980 | CMod1 | CAPA | [Download]() |
-| 1958-1980 | CMod2 | CAPA | [Download]() |
-| 1958-1980 | CMod3 | CAPA | [Download]() |
-| 1958-1980 | CMod4 | CAPA | [Download]() |
-| 1958-1980 | CMod5 | CAPA | [Download]() |
-| 1958-1980 | CMod6 | CAPA | [Download]() |
-| 1958-1980 | CMod7 | CAPA | [Download]() |
-| 1958-1980 | CMod8 | CAPA | [Download]() |
-| 1958-1980 | CMod9 | CAPA | [Download]() |
-| 1958-1980 | CMod10 | CAPA | [Download]() |
-| 1958-1980 | CMod11 | CAPA | [Download]() |
-| 1958-1980 | CMod12 | CAPA | [Download]() |
-| 1958-1980 | CMod13 | CAPA | [Download]() |
-| 1958-1980 | CMod14 | CAPA | [Download]() |
-| 1958-1980 | CMod15 | CAPA | [Download]() |
-| 1958-1980 | CMod16 | CAPA | [Download]() |
-| 1958-1980 | CMod17 | CAPA | [Download]() |
-| 1958-1980 | CMod18 | CAPA | [Download]() |
-| 1958-1980 | CMod19 | CAPA | [Download]() |
-| 1958-1980 | CMod20 | CAPA | [Download]() |
-| 1958-1980 | CMod21 | CAPA | [Download]() |
-| 1958-1980 | CMod22 | CAPA | [Download]() |
-| 1958-1980 | CMod23 | CAPA | [Download]() |
-| 1958-1980 | CMod24 | CAPA | [Download]() |
-| 1958-1980 | CMod25 | CAPA | [Download]() |
-| 1958-1980 | CMod26 | CAPA | [Download]() |
-| 1958-1980 | CMod27 | CAPA | [Download]() |
-| 1958-1980 | CMod28 | CAPA | [Download]() |
-| 1958-1980 | CMod29 | CAPA | [Download]() |
-| 1958-1980 | CMod30 | CAPA | [Download]() |
-| 1958-1980 | CMod31 | CAPA | [Download]() |
-| 1958-1980 | CMod32 | CAPA | [Download]() |
-| 1958-1980 | CMod33 | CAPA | [Download]() |
-| 1958-1980 | CMod34 | CAPA | [Download]() |
-| 1958-1980 | CMod35 | CAPA | [Download]() |
-| 1958-1980 | CMod36 | CAPA | [Download]() |
+| 1979-1980 | CMod2 | DreadedSteeler | [Download]() |
+| 1980-2007 | CMod3 | CAPA | [Download]() |
+| 1981-1982 | CMod4 | Devinstate | [Download]() |
+|  | CMod5 |  | [Download]() |
+|  | CMod6 |  | [Download]() |
+|  | CMod7 |  | [Download]() |
+|  | CMod8 |  | [Download]() |
+|  | CMod9 |  | [Download]() |
+|  | CMod10 |  | [Download]() |
+|  | CMod11 |  | [Download]() |
+|  | CMod12 |  | [Download]() |
+|  | CMod13 |  | [Download]() |
+|  | CMod14 |  | [Download]() |
+|  | CMod15 |  | [Download]() |
+|  | CMod16 |  | [Download]() |
+|  | CMod17 |  | [Download]() |
+|  | CMod18 |  | [Download]() |
+|  | CMod19 |  | [Download]() |
+|  | CMod20 |  | [Download]() |
+|  | CMod21 |  | [Download]() |
+|  | CMod22 |  | [Download]() |
+|  | CMod23 |  | [Download]() |
+|  | CMod24 |  | [Download]() |
+|  | CMod25 |  | [Download]() |
+|  | CMod26 |  | [Download]() |
+|  | CMod27 |  | [Download]() |
+|  | CMod28 |  | [Download]() |
+|  | CMod29 |  | [Download]() |
+|  | CMod30 |  | [Download]() |
+|  | CMod31 |  | [Download]() |
+|  | CMod32 |  | [Download]() |
+|  | CMod33 |  | [Download]() |
+|  | CMod34 |  | [Download]() |
+|  | CMod35 |  | [Download]() |
+|  | CMod36 |  | [Download]() |
