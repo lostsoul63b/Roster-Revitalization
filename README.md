@@ -5,8 +5,8 @@
 ## Revitalized Rosters
 | Roster Year | Roster Save | Creator | Download |
 | :------------- | :------------- | :------------- | :------------- |
-| 1958-1980 | CMod1 | CAPA | [Download](https://github.com/lostsoul63b/Roster-Revitalization/blob/main/ros/1958-1980-CMod1.zip) |
-| 1979-1980 | CMod2 | DreadedSteeler | [Download](https://github.com/lostsoul63b/Roster-Revitalization/blob/main/ros/1979-1980-CMod2.zip) |
+| 1958-1980 | CMod1 | CAPA | [Download](https://github.com/lostsoul63b/Roster-Revitalization/raw/main/ros/1958-1980-CMod1.zip) |
+| 1979-1980 | CMod2 | DreadedSteeler | [Download](https://github.com/lostsoul63b/Roster-Revitalization/raw/main/ros/1979-1980-CMod2.zip) |
 | 1980-2007 | CMod3 | CAPA | [Download](https://github.com/lostsoul63b/Roster-Revitalization/blob/main/ros/1980-2007-CMod3.zip) |
 | 1981-1982 | CMod4 | Devinstate | [Download](https://github.com/lostsoul63b/Roster-Revitalization/blob/main/ros/1981-1982-CMod4.zip) |
 | 1983-1984 | CMod5 | dophin26 | [Download](https://github.com/lostsoul63b/Roster-Revitalization/blob/main/ros/1983-1984-CMod5.zip) |
